@@ -108,7 +108,8 @@ cities = {
     16: "Timisora",
     17: "Urziceni",
     18: "CheckTown",
-    19: "Zerind"
+    19: "Zerind",
+    20: "Thane"
 }
 
 cityDistances = [
@@ -131,5 +132,6 @@ cityDistances = [
     {0: 118, 9: 111},
     {1: 85, 7: 98, 18: 142},
     {8: 92, 17: 142},
-    {0: 75, 12: 71}
+    {0: 75, 12: 71},
+    {3: 120, 15: 70}
 ]
