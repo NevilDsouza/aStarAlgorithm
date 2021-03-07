@@ -107,7 +107,7 @@ cities = {
     15: "Sibiu",
     16: "Timisora",
     17: "Urziceni",
-    18: "Vaslui",
+    18: "CheckTown",
     19: "Zerind"
 }
 

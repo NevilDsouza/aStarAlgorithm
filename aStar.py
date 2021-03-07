@@ -53,4 +53,5 @@ print(space + "Route" + space)
 for city in route:
     print(city)
 
-print(f'\nDistance from {cities[19]} to {cities[1]}: {route[-1].combinedCost}')
+print(
+    f'\Difference from {cities[19]} to {cities[1]}: {route[-1].combinedCost}')
